@@ -1,0 +1,192 @@
+[
+  {
+    "id": "1",
+    "name": "Broccoli",
+    "img": "images/produce/broccoli.jpg",
+    "filter": "vegetable",
+    "weight": "0.6 lb",
+    "price": "2.69",
+    "amount":0
+  },
+  {
+    "id": "2",
+    "name": "Red Bell Pepper",
+    "img": "images/produce/pepper_r.png",
+    "filter": "vegetable",
+    "weight": "0.6 lb",
+    "price": "1.29",
+    "amount":"0"
+  },
+  {
+    "id": "3",
+    "name": "Green Bell Pepper",
+    "img": "images/produce/pepper_g.png",
+    "filter": "vegetable",
+    "weight": "0.6 lb",
+    "price": "1",
+    "amount":"0"
+  },
+  {
+    "id": "4",
+    "name": "Orange Bell Pepper",
+    "img": "images/produce/pepper_yo.png",
+    "filter": "vegetable",
+    "weight": "0.6 lb",
+    "price": "1",
+    "amount":"0"
+  },
+  {
+    "id": "5",
+    "name": "Yellow Bell Pepper",
+    "img": "images/produce/pepper_yo.png",
+    "filter": "vegetable",
+    "weight": "0.6 lb",
+    "price": "1",
+    "amount":"0"
+  },
+  {
+    "id": "6",
+    "name": "Carrot Loose",
+    "img": "images/produce/carrot.png",
+    "filter": "vegetable",
+    "weight": "0.6 lb",
+    "price": "0.5",
+    "amount":"0"
+  },{
+    "id": "7",
+    "name": "Broccoli",
+    "img": "images/produce/broccoli.jpg",
+    "filter": "vegetable",
+    "weight": "0.6 lb",
+    "price": "2.69",
+    "amount":"0"
+  },
+  {
+    "id": "8",
+    "name": "Red Bell Pepper",
+    "img": "images/produce/pepper_r.png",
+    "filter": "vegetable",
+    "weight": "0.6 lb",
+    "price": "1.29",
+    "amount":"0"
+  },
+  {
+    "id": "9",
+    "name": "Green Bell Pepper",
+    "img": "images/produce/pepper_g.png",
+    "filter": "vegetable",
+    "weight": "0.6 lb",
+    "price": "1",
+    "amount":"0"
+  },
+  {
+    "id": "10",
+    "name": "Orange Bell Pepper",
+    "img": "images/produce/pepper_yo.png",
+    "filter": "vegetable",
+    "weight": "0.6 lb",
+    "price": "1",
+    "amount":"0"
+  },
+  {
+    "id": "11",
+    "name": "Yellow Bell Pepper",
+    "img": "images/produce/pepper_yo.png",
+    "filter": "vegetable",
+    "weight": "0.6 lb",
+    "price": "1",
+    "amount":"0"
+  },
+  {
+    "id": "12",
+    "name": "Carrot Loose",
+    "img": "images/produce/carrot.png",
+    "filter": "vegetable",
+    "weight": "0.6 lb",
+    "price": "0.5",
+    "amount":"0"
+  },
+  {
+    "id": "13",
+    "name": "Almond (Raw)",
+    "img": "images/produce/almond_raw.png",
+    "filter": "nuts",
+    "weight": "0.9 lb",
+    "price": "6",
+    "amount":"0"
+  },
+  {
+    "id": "14",
+    "name": "Pistachio (Roasted)",
+    "img": "images/produce/pistachio_roasted.png",
+    "filter": "nuts",
+    "weight": "0.94 lb",
+    "price": "9",
+    "amount":"0"
+  },
+  {
+    "id": "15",
+    "name": "Walnut (Raw)",
+    "img": "images/produce/walnut_raw.png",
+    "filter": "nuts",
+    "weight": "0.84 lb",
+    "price": "5",
+    "amount":"0"
+  },
+  {
+    "id": "16",
+    "name": "Tart Cherry Juice",
+    "img": "images/produce/juice_tartCherry.jpg",
+    "filter": "beverage",
+    "weight": "33.8fl oz",
+    "price": "5",
+    "organic": "organic",
+    "iconOrganic":"images/icon_organic.png",
+    "amount":"0"
+  },
+  {
+    "id": "17",
+    "name": "Green Juice",
+    "img": "images/produce/juice_green.jpg",
+    "filter": "beverage",
+    "weight": "33.8fl oz",
+    "price": "5",
+    "organic": "organic",
+    "iconOrganic":"images/icon_organic.png",
+    "amount":"0"
+    
+  },
+  {
+    "id": "18",
+    "name": "Raspberry",
+    "img": "images/produce/raspberry.png",
+    "filter": "fruit",
+    "weight": "0.5 lb",
+    "price": "3.99",
+    "organic": "organic",
+    "iconOrganic":"images/icon_organic.png",
+    "amount":"0"
+  },
+  {
+    "id": "19",
+    "name": "Apple",
+    "img": "images/produce/apple.png",
+    "filter": "fruit",
+    "weight": "0.5 lb",
+    "price": "0.79",
+    "organic": "organic",
+    "iconOrganic":"images/icon_organic.png",
+    "amount":"0"
+  },
+  {
+    "id": "20",
+    "name": "Blackberry",
+    "img": "images/produce/blackberry.png",
+    "filter": "fruit",
+    "weight": "0.5 lb",
+    "price": "3.99",
+    "organic": "organic",
+    "iconOrganic":"images/icon_organic.png",
+    "amount":"0"
+  }
+]

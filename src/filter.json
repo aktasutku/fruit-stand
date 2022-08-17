@@ -1,0 +1,38 @@
+[
+    {
+        "id": "0",
+        "name": "All",
+        "filter":"all",
+        "icon": "images/filter/all.png"
+    },
+    {
+        "id": "1",
+        "name": "Fruit",
+        "filter":"fruit",
+        "icon": "images/filter/fruit.png"
+    },
+    {
+        "id": "2",
+        "name": "Vegetable",
+        "filter":"vegetable",
+        "icon": "images/filter/vegetable.png"
+    },
+    {
+        "id": "3",
+        "name": "Beverage",
+        "filter":"beverage",
+        "icon": "images/filter/beverage.png"
+    },
+    {
+        "id": "4",
+        "name": "Nuts",
+        "filter":"nuts",
+        "icon": "images/filter/nuts.png"
+    },
+    {
+        "id": "5",
+        "name": "Organic",
+        "filter":"organic",
+        "icon": "images/filter/organic.png"
+    }
+]
