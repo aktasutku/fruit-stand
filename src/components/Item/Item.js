@@ -7,7 +7,6 @@ function Item({itemData:item}) {
     const [amount, setAmount] = useState(0);
 
     const HandleIncDec = (e, id) => {
-        console.log('clicked',e)
         if (e.currentTarget.id === "inc") {
           if (amount < 20) setAmount(amount + 1);
         } else if (e.currentTarget.id === "dec") {
